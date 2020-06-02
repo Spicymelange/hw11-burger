@@ -11,8 +11,8 @@ else {
     host: "localhost",
     port: 3306,
     user: "root",
-    password: process.env.MYSQL_KEY,
-    database: "burger_db"
+    password: "6Dexter",
+    database: "burger_db",
   });
 };
 
